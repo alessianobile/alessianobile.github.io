@@ -1,29 +1,53 @@
-Fractal by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE: 
+Hold - Fully Responsive Free HTML5 template
+
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
+
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
-A simple landing page template for showcasing mobile apps (although it'll definitely work
-for other stuff if you get rid of the phone :) Lightweight, fully responsive, and built on
-HTML5, Sass, and flexbox.
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = not included)
+jQuery
+http://jquery.com/
 
-AJ
-aj@lkn.io | @ajlkn
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
+Modernizr
+http://modernizr.com/
 
-Credits:
+Google Map
+https://map.google.com/
 
-	Demo Images:
-		Unsplash (unsplash.com)
+jQuery Cookie
+https://github.com/carhartl/jquery-cookie
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Viewport-Units-Buggyfill
+https://github.com/rodneyrehm/viewport-units-buggyfill/
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Google Fonts
+https://www.google.com/fonts/
+
+Icomoon
+https://icomoon.io/app/
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Demo Images:
+http://unsplash.com
+
